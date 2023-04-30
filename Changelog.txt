@@ -1,0 +1,8 @@
+Changelog.txt
+
+V16
+added MediaCreationToolwin11.bat
+    this allows the creation of windows 11 ISO file
+
+Added Version in readme file 
+included 22H2 Windows 11 in bat file 
