@@ -3,6 +3,11 @@ Not just an Universal MediaCreationTool wrapper script with ingenious support fo
 A powerful yet simple windows 10 / 11 deployment automation tool as well!  
 *If you had no success launching the script so far, this latest version will work*  
 
+## Version 
+V16 - From the number of choices
+Version now includes 22H2 Windows 11
+Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 22H2!
+
 Presets  
 -------  
 1 ***Auto Upgrade*** with detected media, script assists setupprep for upgrading directly  
